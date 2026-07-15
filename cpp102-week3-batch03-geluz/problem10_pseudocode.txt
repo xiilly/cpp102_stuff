@@ -1,0 +1,5 @@
+START
+INPUT number
+PROCESS Check: is number MOD 2 = 0?
+DISPLAY "Even" or "Odd"
+End

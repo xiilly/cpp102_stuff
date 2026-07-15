@@ -1,0 +1,6 @@
+START
+INPUT num1
+INPUT num2
+PROCESS total fare = (num1+num2)/2
+DISPLAY total fare
+End

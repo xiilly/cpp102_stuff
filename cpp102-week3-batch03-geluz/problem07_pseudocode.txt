@@ -1,0 +1,7 @@
+START
+INPUT weight1
+INPUT weight2
+INPUT weight3
+PROCESS semester standing = (weight1+weight2+weight3)/3
+DISPLAY semester standing
+End

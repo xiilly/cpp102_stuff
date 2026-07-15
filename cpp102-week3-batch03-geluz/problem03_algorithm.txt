@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter the rate per kilometer. Store it as num1.
+Step 3: Ask the user to enter the distance traveled. Store it as num2.
+Step 5: Compute total fare = (num1+num2)/2
+Step 6: Display total fare
+Step 7: End.

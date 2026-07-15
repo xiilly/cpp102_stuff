@@ -1,0 +1,5 @@
+START
+INPUT age
+PROCESS Check: is number MOD 60 = 60+?
+DISPLAY "Eligible for Senior Discount" or "Eligible for Senior Discount"
+End

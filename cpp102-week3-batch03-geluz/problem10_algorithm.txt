@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter a number. Store it as number.
+Step 3: Check is number MOD 2 = 0?
+Step 4: If yes, display "Even".
+Step 5: If no, display "Odd".
+Step 6: End.

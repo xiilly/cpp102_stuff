@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter a age. Store it as age.
+Step 3: Check is age MOD 60 = 60+?
+Step 4: If above 60, display "Eligible for Senior Discount".
+Step 5: If below 60, display "Not Eligible for Senior Discount".
+Step 6: End.

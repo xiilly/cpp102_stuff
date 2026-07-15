@@ -1,0 +1,7 @@
+Step 1: Start.
+Step 2: Ask the user to enter a sea level number 0. Store it as sealevel.
+Step 3: Check is sealevel MOD 0 = 0+?
+Step 4: If greater than 0, display "Above Sea Level".
+Step 4: If exactly at 0, display "At Sea Level".
+Step 5: If lower than 0, display "Below Sea Level".
+Step 6: End.

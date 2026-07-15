@@ -1,0 +1,8 @@
+START
+INPUT side1
+INPUT side2
+INPUT side3
+INPUT side4
+PROCESS perimeter = (side1+side2+side3+side4)/4
+DISPLAY perimeter
+End

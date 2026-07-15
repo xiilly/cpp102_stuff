@@ -1,0 +1,7 @@
+START
+INPUT item1
+INPUT item2
+INPUT item3
+PROCESS total cost = (item1+item2+item3)/3
+DISPLAY total cost
+End

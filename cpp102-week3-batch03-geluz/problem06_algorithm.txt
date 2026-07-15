@@ -1,0 +1,7 @@
+Step 1: Start.
+Step 2: Ask the user to enter the fare. Store it as num1.
+Step 3: Ask the user to enter the toll fee. Store it as num2.
+Step 4: Ask the user to enter the fuel cost. Store it as num3.
+Step 5: Compute total travel cost = (num1+num2+num3)/3
+Step 6: Display total travel cost
+Step 7: End.

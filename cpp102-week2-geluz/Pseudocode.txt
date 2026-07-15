@@ -1,0 +1,28 @@
+1. PSEUDOCODE
+
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+End
+
+---------------------------------------------------------------------------------
+2. PSEUDOCODE
+
+START
+INPUT score1
+INPUT score2
+INPUT score3
+PROCESS average = (score1+score2+score3)/3
+DISPLAY average
+End
+
+---------------------------------------------------------------------------------
+3. PSEUDOCODE
+
+START
+INPUT number
+PROCESS Check: is number MOD 2 = 0?
+DISPLAY "Even" or "Odd"
+End

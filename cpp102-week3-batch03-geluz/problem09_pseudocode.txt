@@ -1,0 +1,5 @@
+START
+INPUT age
+PROCESS Check: is number MOD 0 = 0+?
+DISPLAY "Above Sea Level" or "At Sea Level" or "Below Sea Level"
+End
